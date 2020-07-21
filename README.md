@@ -1,2 +1,2 @@
 # Smart-Factory-Course-Practice
-coding practice for smart factory
+coding practice to smart factory
